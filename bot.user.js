@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        RednelssBot
-// @namespace   RednelssBot
+// @name        Unknown
+// @namespace   Unknown
 // @include     http://agar.io/*
 // @version     5.01
 // @grant       none
